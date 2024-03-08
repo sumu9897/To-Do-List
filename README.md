@@ -10,11 +10,39 @@ To use this application, follow these steps:
     npm init --y
     ```
 
-2. Install the required dependencies by executing the following commands:
+2. Install CORS by running:
+   ```bash
+    npm init cors
+    ```
+3. Install the required dependencies by executing the following commands:
 
     ```bash
     npm i express
     ```
+4. 
+   ```bash
+   npm i jsonwebtoken
+   ```
+5. ```bash
+   npm i mongoose
+   ```
+6. ```bash
+   npm i nodemailer
+   ```
+7. ```bash
+   npm i nodemon
+   ```
+8. ```bash
+   npm i express-rate-limiter
+   ```
+9. ```bash
+   npm i hpp
+   ```
+10. ```bash
+      npm i helmet
+    ```
+11. 
+
 ## 3. app.js configure
 ## 4. Run The Server
 ## 5. User Model Creation
