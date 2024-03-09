@@ -33,7 +33,7 @@ To use this application, follow these steps:
    npm i nodemon
    ```
 8. ```bash
-   npm i express-rate-limiter
+   npm i express-rate-limit
    ```
 9. ```bash
    npm i hpp
@@ -45,7 +45,11 @@ To use this application, follow these steps:
 
 ## 3. app.js configure
 ## 4. Run The Server
+### run 5050 port
 ## 5. User Model Creation
+### Registration
+### Login
+
 ## 6. List Model Creation
 ## 7. OTP Model Creation
 ## 8. Email Utility
