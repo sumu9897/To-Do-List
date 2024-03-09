@@ -26,7 +26,7 @@ let URL="mongodb://localhost:27017/Todo"
 let OPTION={user:"",pass:"",autoIndex:true}
 
 mongoose.connect(URL,OPTION).then((res)=>{
-    console.log(("Database Connceted"))
+    console.log(("Database Connected"))
 }).catch((err)=> {
     console.log(err)
 })
