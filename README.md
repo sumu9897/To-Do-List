@@ -41,16 +41,9 @@ To use this application, follow these steps:
 10. ```bash
       npm i helmet
     ```
-11. 
+
 
 ## 3. app.js configure
 ## 4. Run The Server
-### run 5050 port
-## 5. User Model Creation
-### Registration
-### Login
+### run 5010 port
 
-## 6. List Model Creation
-## 7. OTP Model Creation
-## 8. Email Utility
-## 9. User Registration
